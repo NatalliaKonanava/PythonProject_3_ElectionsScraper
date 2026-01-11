@@ -46,6 +46,7 @@ python main.py ´https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumn
 Průběh stahování:
 
 STAHUJI DATA Z VYBRANEHO URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101
+
 UKLADAM DO SOUBORU: vysledky_benesov.csv
 
 UKONCUJI main
@@ -59,4 +60,5 @@ code,location,registered,envelopes,valid,ANO 2011,Blok proti islam.-Obran.domova
 532568,Bernartice,191,148,148,39,0,0,0,0,7,37,0,4,3,4,0,0,0,0,6,0,0,1,20,3,0,7,17,0,0
 
 ``` 
+
 
