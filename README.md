@@ -1,5 +1,4 @@
-# PythonProject_3_ElectionsScraper
-
+# Engeto-3-projekt Elections Scraper 2017
 Třetí projekt na Python Akademi od Engeta.
 # Popis projektu
 
